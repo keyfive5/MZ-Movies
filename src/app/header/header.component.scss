@@ -1,0 +1,24 @@
+.header-container {
+    align-items: center;
+    background-color: yellowgreen;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+
+    .logo {
+        cursor: pointer;
+        margin-left: 39px;
+        letter-spacing: 5px;
+        font-family: 'Segoe UI';
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    .logout {
+        cursor: pointer;
+        margin-right: 40px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
+
